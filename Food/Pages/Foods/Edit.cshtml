@@ -1,0 +1,50 @@
+@page
+@model Food.Pages_Foods.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Foodie</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Foodie.ID" />
+            <div class="form-group">
+                <label asp-for="Foodie.Name" class="control-label"></label>
+                <input asp-for="Foodie.Name" class="form-control" />
+                <span asp-validation-for="Foodie.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Foodie.PowerAcquisitionDate" class="control-label"></label>
+                <input asp-for="Foodie.PowerAcquisitionDate" class="form-control" />
+                <span asp-validation-for="Foodie.PowerAcquisitionDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Foodie.Ingredients" class="control-label"></label>
+                <input asp-for="Foodie.Ingredients" class="form-control" />
+                <span asp-validation-for="Foodie.Ingredients" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Foodie.Price" class="control-label"></label>
+                <input asp-for="Foodie.Price" class="form-control" />
+                <span asp-validation-for="Foodie.Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

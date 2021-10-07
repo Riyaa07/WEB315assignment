@@ -1,0 +1,66 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Food";
+}
+
+@{
+    var quote = "Good Food Good Mood";
+}
+<div>@quote</div>
+@{
+    quote=" 7 Billion people but what shall I do I care only about food. -  Foodieeria";
+}
+<div>@quote</div>
+
+@{
+    var Foodblog = new []{
+        new{
+            name = "panipuri",
+            calories = "150-180",
+            origin = "India"
+        },
+        new{
+            name = "fafda jalebi",
+            calories = "750",
+            origin = "Gujarat,India"
+        },
+        new{
+            name = "aloo paratha",
+            calories = "180",
+            origin = "Punjab,India"
+        },
+        new{
+            name = "idli sambhar",
+            calories = "130",
+            origin = "Tamil Nadu,India"
+        },
+        new{
+            name = "rosogolla",
+            calories = "186",
+            origin = "West Bengal,India"
+        }
+    };
+}
+
+@for (var i =0; i < Foodblog.Length; i++)
+{
+    var Food = Foodblog[i];
+    <text>Food name : @Food.name <br></text>
+    var Calories = Foodblog[i];
+    <text>Calories : @Calories.calories <br></text>
+    var Origin = Foodblog[i];
+    <text>Origin : @Origin.origin <br></text>
+}
+
+<div class="text-center">
+    <h1 class="display-4"><strong>Welcome</strong></h1>
+    <p>The current time on server is @Model.todaysDate </p>
+    <p>@@Username</p>
+    <p>email me at RS374@@myscc.ca </p>
+    &nbsp;
+    &lt;
+    <p>@DateTime.IsLeapYear(2016)</p>
+    <p>Last week this time: @(DateTime.Now - TimeSpan.FromDays(7))</p>
+    @("<span>Hello span</span>")
+</div>

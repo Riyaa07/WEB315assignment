@@ -1,0 +1,56 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Food Blog";
+}
+
+<p>info goes here<p>
+
+@{
+    var value= 10;
+}
+@if (value % 2 == 0)
+{
+    <p>the value variable is even</p>
+}
+else if(value >= 9000)
+{
+    <p>the variable is over 9000!</p>
+}
+else
+{
+    <p>the value is neither even nor over 9000 :</p>
+}
+@switch (value)
+{
+    case 1: 
+    <p>the value is number one</p>
+    break;
+    case 9001:
+    <p>its barely over 9000!</p>
+    break;
+    default:
+    <p>the number wasnt fun</p>
+    break;
+}
+
+@try
+{
+   throw new InvalidOperationException ("You did an in valid operation");
+}
+catch (Exception ex)
+{
+    <p>the exception message : @ex.Message</p>
+}
+finally
+{
+   <p>this happens after the try catch finishes</p>
+}
+
+@using(Html.BeginForm())
+{
+    <div>
+          Email: <input type="email" id="email" value="">
+          <button>Register</button>
+    </div>
+}
