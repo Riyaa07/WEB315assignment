@@ -1,0 +1,63 @@
+﻿<h3>Fictional Character</h3>
+
+<br>
+
+@page "/Character"
+
+<h1>Character List (@characterList.Count(List => !List.IsFictional))</h1>
+
+<br>
+
+<ul>
+    @foreach (var List in characterList)
+    {
+        <li>
+            <input type="checkbox" @bind="List.IsFictional" />
+            <input @bind="List.Name" />
+        </li>
+    }
+
+    @foreach (var List in characterList)
+    {
+        <li>
+            <input type="checkbox" @bind="List.Profession"  />
+            <input @bind="List.Profession" />
+        </li>
+    }
+</ul>
+
+<input placeholder="Fictional Name" @bind="newList" />
+<button @onclick="AddName">Add Name</button>
+
+<br>
+<br>
+
+
+<input placeholder="Add Profession" @bind="newList" />
+<button @onclick="AddProfession">Add Profession</button>
+
+
+
+@code {
+    private List<character> characterList = new();
+    private string newList;
+
+    private void AddName()
+    {
+        if (!string.IsNullOrWhiteSpace(newList))
+        {
+            characterList.Add(new character { Name = newList });
+            newList = string.Empty;
+        }
+    }
+
+    private void AddProfession()
+    {
+        if (!string.IsNullOrWhiteSpace(newList))
+        {
+            characterList.Add(new character { Profession = newList });
+            newList = string.Empty;
+        }
+    }
+  
+}
