@@ -1,0 +1,138 @@
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Client.StaticWebAssets.xml
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\appsettings.Development.json
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\appsettings.json
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.StaticWebAssets.xml
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.exe
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.deps.json
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.runtimeconfig.json
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.runtimeconfig.dev.json
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Server.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.pdb
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.Views.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.Views.pdb
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Client.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Client.pdb
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.csprojAssemblyReference.cache
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.AssemblyInfoInputs.cache
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.AssemblyInfo.cs
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.csproj.CoreCompileInputs.cache
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.RazorAssemblyInfo.cache
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.RazorAssemblyInfo.cs
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\staticwebassets\BlazorWebAssemblySignalRApp.Server.StaticWebAssets.Manifest.cache
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\staticwebassets\BlazorWebAssemblySignalRApp.Server.StaticWebAssets.xml
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\scopedcss\bundle\BlazorWebAssemblySignalRApp.Server.styles.css
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.TagHelpers.input.cache
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.TagHelpers.output.cache
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.RazorCoreGenerate.cache
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.RazorTargetAssemblyInfo.cache
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.RazorTargetAssemblyInfo.cs
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.Views.pdb
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.csproj.CopyComplete
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Server.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.pdb
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.genruntimeconfig.cache
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\appsettings.json
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Client.StaticWebAssets.xml
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.StaticWebAssets.xml
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.exe
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.deps.json
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.runtimeconfig.json
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.runtimeconfig.dev.json
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Server.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.pdb
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.Views.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.Views.pdb
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Client.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Client.pdb
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.csproj.AssemblyReference.cache
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.AssemblyInfoInputs.cache
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.AssemblyInfo.cs
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.RazorAssemblyInfo.cache
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.RazorAssemblyInfo.cs
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\staticwebassets\BlazorWebAssemblySignalRApp.Server.StaticWebAssets.Manifest.cache
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\staticwebassets\BlazorWebAssemblySignalRApp.Server.StaticWebAssets.xml
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\scopedcss\bundle\BlazorWebAssemblySignalRApp.Server.styles.css
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.TagHelpers.input.cache
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.TagHelpers.output.cache
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.RazorCoreGenerate.cache
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.RazorTargetAssemblyInfo.cache
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.RazorTargetAssemblyInfo.cs
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.Views.pdb
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.csproj.CopyComplete
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Server.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.pdb
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\server\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Server.genruntimeconfig.cache

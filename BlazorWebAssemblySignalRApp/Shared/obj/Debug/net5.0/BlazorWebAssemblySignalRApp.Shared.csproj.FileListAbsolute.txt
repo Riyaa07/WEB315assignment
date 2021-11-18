@@ -1,0 +1,24 @@
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.deps.json
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.csprojAssemblyReference.cache
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfoInputs.cache
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfo.cs
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.csproj.CoreCompileInputs.cache
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
+D:\Teaching LOCAL\WEB 315\Class Example\WEB315ClassExamples\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.deps.json
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.csproj.AssemblyReference.cache
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfoInputs.cache
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfo.cs
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
+C:\Users\riyak\Downloads\ASP.NET\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
