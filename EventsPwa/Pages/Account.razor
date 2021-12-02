@@ -1,0 +1,18 @@
+@page "/Account-login"
+
+<h1>Account Login</h1>
+
+<p>User Name: @userName</p> 
+<input type="text" placeholder="User Name" name="userName"/> <br/><br/>
+
+<p>Password: @userPass</p>
+<input type="password" placeholder="Password" name="pass"/> <br><br>
+
+<button class="btn btn-primary" onclick="OnLoginCallback">LOGIN</button>
+
+@code {
+    public bool PasswordVisible = true;
+    public string userName {get; set;}
+    public int userPass {get; set;}
+
+}

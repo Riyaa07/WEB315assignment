@@ -1,0 +1,15 @@
+{
+  "name": "EventsPwa",
+  "short_name": "Riya Shah",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffc0cb",
+  "theme_color": "#ff69b4",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
